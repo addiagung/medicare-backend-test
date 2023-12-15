@@ -1,0 +1,53 @@
+id_obat,nama,deskripsi,dosis,manfaat,efek_samping,kategori,link_gambar
+1,Bodrex,"Bodrex adalah obat yang bermanfaat untuk meringankan sakit kepala, sakit gigi, dan menurunkan demam. Beberapa varian Bodrex juga dapat meredakan gejala flu dan batuk, seperti hidung tersumbat, bersin-bersin, dan batuk.","1. Bodrex
+ Kondisi: Sakit kepala, sakit gigi, atau demam
+ Dewasa dan anak usia >12 tahun: 1 tablet, 3–4 kali sehari.
+ Anak-anak usia 6–12 tahun: ½ –1 tablet, 3–4 kali sehari.
+ 2. Bodrex Extra
+ Kondisi: Sakit kepala
+ Dewasa dan anak usia >12 tahun: 1–2 kaplet, 3–4 kali sehari.
+ Anak usia 6–12 tahun: ½ –1 kaplet, 3–4 kali sehari.
+ 3. Bodrex Migra
+ Kondisi: Migrain
+ Dewasa: 1 kaplet, 3 kali sehari.
+ 4. Bodrex Demam
+ Kondisi: Demam, termasuk demam setelah vaksinasi, sakit kepala, sakit gigi, dan nyeri otot
+ Dewasa: 1 kaplet, 3 kali sehari.
+ 5. Bodrex Flu dan Batuk PE
+ Kondisi: Flu, demam, sakit kepala, hidung tersumbat, atau bersin yang disertai batuk tidak berdahak.
+ 1) Kaplet
+ Dewasa: 1 kaplet, 3 kali sehari atau 15 ml, 3 kali sehari.
+ 2) Sirup
+ Dewasa: 15 ml, 3 kali sehari.
+ 6. Bodrex Flu dan Batuk Berdahak PE
+ Kondisi: Flu, demam, sakit kepala, hidung tersumbat, atau bersin yang disertai batuk berdahak
+ Dewasa: 1 kaplet, 3 kali sehari atau 15 ml, 3 kali sehari.
+ 7. Bodrex Flu
+ Kondisi: Flu, hidung tersumbat, bersin-bersin, demam, dan sakit kepala
+ Dewasa: 1 kaplet, 3 kali sehari.
+ 8. Bodrex Batuk
+ Kondisi: Batuk berdahak dan batu tidak berdahak
+ Dewasa: 15 ml, 3 kali sehari.
+ 9. Bodrex Herbal Batuk
+ Kondisi: Batuk
+ Dewasa: 1 saset (15 ml), 3 kali sehari.
+ 10. Bodrex Herbal Sakit Kepala
+ Kondisi: Sakit kepala
+ 1) Kaplet
+ Dewasa: 1–2 tablet salut selaput, 3 kali sehari sesudah makan.
+ 2) Sirup
+ Dewasa: 1–2 saset, 3 kali sehari sesudah makan.","Meredakan sakit kepala, nyeri, demam, serta gejala flu dan batuk","1. Untuk varian Bodrex Extra dan Bodrex Migra, beberapa efek samping yang bisa terjadi adalah sebagai berikut:
+ Gangguan fungsi hati, gangguan penglihatan (seperti pandangan kabur atau sulit membedakan warna), mual, muntah, atau nyeri ulu hati, dan gangguan fungsi ginjal (dosis besar)
+ 2. Sementara untuk varian Bodrex Flu dan Batuk dengan kombinasi kandungan phenylephrine dan dextromethorphan bisa menyebabkan efek samping di bawah ini:
+ Tremor, gelisah, gugup atau tidak bisa diam, mual, mulut kering, sulit tidur, diare, dan pusing atau kantuk",Analgesik & antipiretik,https://storage.googleapis.com/dataobat/bodrex.png
+2,Tolak Angin Cair,"Tolak Angin Cair adalah produk herbal yang bermanfaat untuk mengobati gejala masuk angin, seperti mual, perut kembung, sakit perut, pusing, dan meriang. Tolak Angin Cair dijual bebas di apotek.","1. Tujuan: Mengatasi masuk angin atau diare 
+ Minum 3–4 saset per hari. 
+ 2. Tujuan: Meningkatkan daya tahan tubuh 
+ Minum 2 saset per hari, selama 7 hari atau bisa lebih. 
+ 3. Tujuan: Mengatasi mabuk perjalanan 
+ Minum 1 saset sebelum melakukan perjalanan atau 1–3 saset pada saat mabuk perjalanan. 
+ 4. Tujuan: Mengatasi kelelahan dan kurang tidur 
+ Minum 1 saset saat mengalami kelelahan atau kurang tidur.",Mengatasi gejala masuk angin,"Rasa panas di dada (heartburn) 
+Diare 
+Sendawa 
+Sakit perut",Obat herbal untuk masuk angin,https://storage.googleapis.com/dataobat/tolakangin.png
